@@ -1,0 +1,6 @@
+Flask>=2.3
+Flask-SQLAlchemy>=3.0
+Flask-Marshmallow>=0.14
+marshmallow-sqlalchemy>=0.28
+Flask-Cors>=4.0
+pytest>=8.0
